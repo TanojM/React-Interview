@@ -1,40 +1,6 @@
-@font-face {
-  font-family: "CeraPro";
-  font-weight: 400;
-  src: url("./Fonts/Cera/Cera_Pro_Regular.otf");
-  font-display: fallback;
-}
-@font-face {
-  font-family: "CeraPro";
-  font-weight: 700;
-  src: url("./Fonts/Cera/Cera_Pro_Bold.otf");
-  font-display: fallback;
-}
-@font-face {
-  font-family: "CeraPro";
-  font-weight: bold;
-
-  src: url("./Fonts/Cera/Cera_Pro_Bold.otf");
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: "CeraPro";
-  src: url("./Fonts/Cera/Cera_Pro_Medium.otf");
-  /* Cera_Pro_Black */
-  font-weight: 500;
-  font-display: fallback;
-}
-@font-face {
-  font-family: "CeraPro";
-  src: url("./Fonts/Cera/Cera_Pro_Medium.otf");
-  font-weight: 600;
-  font-display: fallback;
-}
-
 html,
 body {
-  font-family: "CeraPro" !important;
+  font-family: 'CeraPro' !important;
 
   width: 100%;
   margin: 0;

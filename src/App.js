@@ -1,17 +1,12 @@
 import './App.css';
 import 'antd/dist/antd.css';
-import Header from './Components/Header/header';
-import Main from './Components/Sidemenu/sidemenu';
+import Main from './Components/DetailsComponent/compTest';
+
 function App() {
   return (
-    <div className='App'>
-      <div id='app-body'>
-        <div>
-          <Header />
-          <div className='margin-top'>
-            <Main />
-          </div>
-        </div>
+    <div className="App">
+      <div className="margin-top">
+        <Main />
       </div>
     </div>
   );
